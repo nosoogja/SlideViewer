@@ -3,7 +3,7 @@
 ---------------------
 실행파일 경로의 slide 폴더 안에 있는 파일을 슬라이드로 보여준다.
 
-https://github.com/nosoogja/SlideViewer/releases/download/0.1/SlideViewer.exe
+https://github.com/nosoogja/SlideViewer/releases/download/0.2/SlideViewer.exe
 -----------------------
 ## Slide
 ![result()](doc/3.jpg)
